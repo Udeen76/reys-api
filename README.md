@@ -8,14 +8,14 @@
 <a href="https://github.com/Zreys"><img title="Author" src="https://img.shields.io/badge/Author-Zreys-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Zhirrr/followers"><img title="Followers" src="https://img.shields.io/github/followers/Zhirrr?color=red&style=flat-square"></a>
-<a href="https://github.com/Zhirrr/Zhirrr-Api/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Zhirrr/Zhirrr-Api?color=blue&style=flat-square"></a>
-<a href="https://github.com/Zhirrr/Zhirrr-Api/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Zhirrr/Zhirrr-Api?color=red&style=flat-square"></a>
-<a href="https://github.com/Zhirrr/Zhirrr-Api/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Zhirrr/Zhirrr-Api?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Udeen76/followers"><img title="Followers" src="https://img.shields.io/github/followers/Zhirrr?color=red&style=flat-square"></a>
+<a href="https://github.com/Udeen76/reys-api/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Zhirrr/Zhirrr-Api?color=blue&style=flat-square"></a>
+<a href="https://github.com/Udeen76/reys-api/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Zhirrr/Zhirrr-Api?color=red&style=flat-square"></a>
+<a href="https://github.com/Udeen76/reys-api/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Zhirrr/Zhirrr-Api?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 <p align='center'>
-   <a href="https://wa.me/6283898698875"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/zhirr_ajalah"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
+   <a href="https://wa.me/6289675134806"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/bucin_nime"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
 </P>
 
 ## 🛠️ My-Api
@@ -71,12 +71,12 @@
 | Text Maker Google Suggestion | api/textmaker?text=halo&text2=hai&text3=gwganteng&theme=google-suggestion&apikey=MASUKIN_APIKEY |
 | Text Maker PUBG | api/textmaker/game?text=halo&text2=hai&theme=pubg&apikey=MASUKIN_APIKEY |
 | Text Maker BattleField | api/textmaker/game?text=halo&text2=hai&theme=battlefield&apikey=MASUKIN_APIKEY |
-| Text Maker Coffee Cup | api/textmaker/senja?text=Zhirrr&theme=coffee-cup&apikey=MASUKIN_APIKEY |
-| Text Maker Coffee Cup 2 | api/textmaker/senja?text=Zhirrr&theme=coffee-cup2&apikey=MASUKIN_APIKEY |
-| Text Maker Neon | api/textmaker/metallic?text=Zhirrr&theme=neon&apikey=MASUKIN_APIKEY |
-| Text Maker Glow | api/textmaker/metallic?text=Zhirrr&theme=glow&apikey=MASUKIN_APIKEY |
-| Text Maker Summer | api/textmaker/alam?text=Zhirrr&theme=summer&apikey=MASUKIN_APIKEY |
-| Text Maker Flower | api/textmaker/alam?text=Zhirrr&theme=flower&apikey=MASUKIN_APIKEY |
+| Text Maker Coffee Cup | api/textmaker/senja?text=Zreys&theme=coffee-cup&apikey=MASUKIN_APIKEY |
+| Text Maker Coffee Cup 2 | api/textmaker/senja?text=Zreys&theme=coffee-cup2&apikey=MASUKIN_APIKEY |
+| Text Maker Neon | api/textmaker/metallic?text=Zreys&theme=neon&apikey=MASUKIN_APIKEY |
+| Text Maker Glow | api/textmaker/metallic?text=Zreys&theme=glow&apikey=MASUKIN_APIKEY |
+| Text Maker Summer | api/textmaker/alam?text=Zreys&theme=summer&apikey=MASUKIN_APIKEY |
+| Text Maker Flower | api/textmaker/alam?text=Zreys&theme=flower&apikey=MASUKIN_APIKEY |
 
 
 ## Cara Ganti ApiKey Gimana?
@@ -101,16 +101,12 @@ if(apikey != 'MASUKAN_NAMA_APIKEY') return res.json(loghandler.invalidKey)
 </p>
 
 # Live API
-* https://zahirr-web.herokuapp.com
+* https://emeilia.herokuapp.com
 - Gunakan Parameter Yg Sama Yak :)
 - 100 % Open Source
 - Rate This Repository Okeee 🎉
 - Note : Untuk Melihat Update, Silahkan Ganti Branch Dari Repository ini ke Branch Master, Terimakasih :)
 
-
-### Link Zhirrr Packages
-
-https://www.npmjs.com/package/zahir-api
 
 ### Special Thanks
 - ZefianAlfian (Makasih Templates Nya, Hemat Lines Xixixixi)
